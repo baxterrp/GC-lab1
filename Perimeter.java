@@ -1,3 +1,9 @@
+/*Robert Baxter
+ * 6/7/16
+ * First lab, get area - perimeter and volume
+ */
+
+
 import java.util.Scanner;
 
 public class Perimeter {
